@@ -15,10 +15,31 @@ body {
 .container {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
     align-items: center;
-    background-color: rgba(209, 209, 216, 0.185);
-    height: 50%;
+    background-color: rgba(209, 209, 216, 0.092);
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.395);
+    height: 70%;
     margin: 0% 3%;
     border-radius: 20px;
+}
+
+.logoImg {
+    height: 50%;
+}
+
+input {
+    border-radius: 20px;
+    border: none;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+}
+
+button {
+    border: none;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 10px;
+    background-color: rgb(122, 215, 122);
+
 }
