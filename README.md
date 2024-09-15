@@ -8,6 +8,9 @@ Tiny Stats will also enable fans to see those scores and times live on their own
 
 Features to be added
     Admin Side
-    Score Board
+        Score Board
+        Databse
+        
 
     User Side
+        Team Search
