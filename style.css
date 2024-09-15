@@ -47,4 +47,10 @@ button {
     border-radius: 20px;
     margin: 10px;
     background-color: rgb(122, 215, 122);
+    cursor: pointer;
+}
+
+
+a {
+    text-decoration: none;
 }
