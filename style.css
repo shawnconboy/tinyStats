@@ -1,0 +1,7 @@
+html,
+body {
+    font-family: "Moderustic", sans-serif;
+    background-image: url(./assets/siteBg.png);
+    background-size: fill;
+    background-repeat: no-repeat;
+}
