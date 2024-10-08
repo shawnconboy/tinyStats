@@ -1,0 +1,32 @@
+html,
+body {
+    font-family: "Moderustic", sans-serif;
+    background-image: url(../assets/siteBg2.png);
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    position: fixed;
+    touch-action: none;
+}
+
+.container {
+    height: 100%;
+    width: 95%;
+}
+
+header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+img {
+    height: 80px;
+}
